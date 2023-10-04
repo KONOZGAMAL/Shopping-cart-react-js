@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "clothes",
+    "price": 10.99,
+    "imgUrl": "/imgs/6.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "food",
+    "price": 1199,
+    "imgUrl": "/imgs/5.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "car",
+    "price": 1.05,
+    "imgUrl": "/imgs/4.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/2.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "bag",
+    "price": 14000,
+    "imgUrl": "/imgs/3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "food",
+    "price": 140,
+    "imgUrl": "/imgs/1.jpeg"
+  }
+]
