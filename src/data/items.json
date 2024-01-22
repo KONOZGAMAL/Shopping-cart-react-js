@@ -24,13 +24,13 @@
     "imgUrl": "/imgs/2.jpeg"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "bag",
     "price": 14000,
     "imgUrl": "/imgs/3.jpeg"
   },
   {
-    "id": 4,
+    "id": 6,
     "name": "food",
     "price": 140,
     "imgUrl": "/imgs/1.jpeg"
